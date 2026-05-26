@@ -11,27 +11,3 @@ public class AulaApplication {
 	}
 
 }
-
-// OneToMany
-
-// // CLIENTE
-// ID: 1
-// NOME: WESLEY 
-
-
-// // PEDIDO
-// ID: 1
-// // PRODUTOS
-// ENDERECO:
-// ID_CLIENTE:1
-
-// ID: 2
-// // PRODUTOS
-// ENDERECO:
-// ID_CLIENTE:1
-
-
-// ID: 3
-// // PRODUTOS
-// ENDERECO:
-// ID_CLIENTE:1
